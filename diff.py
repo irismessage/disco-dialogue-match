@@ -3,6 +3,8 @@ import difflib
 from pathlib import Path
 
 
+# could maybe parallelise this by combining blocks?
+
 def main():
     a_fp = Path("dialogue-process/done.txt")
     b_fp = Path("lyrics-process/done.txt")

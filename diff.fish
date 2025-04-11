@@ -1,2 +1,2 @@
 #!/usr/bin/env fish
-./diff.py | tee matches.txt
+time ./diff.py | tee matches.txt
