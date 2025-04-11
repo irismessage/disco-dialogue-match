@@ -1,0 +1,2579 @@
+{
+	"response": {
+		"songs": [
+			{
+				"annotation_count": 2,
+				"api_path": "/songs/1483676",
+				"artist_names": "Sea Power",
+				"full_title": "Monsters of Sunderland by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"id": 1483676,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-monsters-of-sunderland-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-monsters-of-sunderland-sample",
+				"release_date_components": {
+					"year": 2013,
+					"month": 4,
+					"day": 1
+				},
+				"release_date_for_display": "April 1, 2013",
+				"release_date_with_abbreviated_month_for_display": "Apr. 1, 2013",
+				"song_art_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Monsters of Sunderland",
+				"title_with_featured": "Monsters of Sunderland",
+				"url": "https://genius.com/Sea-power-monsters-of-sunderland-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7715004",
+				"artist_names": "Sea Power",
+				"full_title": "Motorway South by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/77659a24dbe39c03be6853691fedd501.229x229x1.jpg",
+				"header_image_url": "https://images.genius.com/77659a24dbe39c03be6853691fedd501.229x229x1.jpg",
+				"id": 7715004,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-motorway-south-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-motorway-south-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/77659a24dbe39c03be6853691fedd501.229x229x1.jpg",
+				"song_art_image_url": "https://images.genius.com/77659a24dbe39c03be6853691fedd501.229x229x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Motorway South",
+				"title_with_featured": "Motorway South",
+				"url": "https://genius.com/Sea-power-motorway-south-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 8,
+				"api_path": "/songs/1037812",
+				"artist_names": "Sea Power",
+				"full_title": "No Lucifer by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"id": 1037812,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-no-lucifer-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-no-lucifer-sample",
+				"release_date_components": {
+					"year": 2008,
+					"month": 1,
+					"day": 13
+				},
+				"release_date_for_display": "January 13, 2008",
+				"release_date_with_abbreviated_month_for_display": "Jan. 13, 2008",
+				"song_art_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 6,
+					"hot": false
+				},
+				"title": "No Lucifer",
+				"title_with_featured": "No Lucifer",
+				"url": "https://genius.com/Sea-power-no-lucifer-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/10036383",
+				"artist_names": "Sea Power",
+				"full_title": "No Lucifer (Steve Lamacq In New Music We Trust Session, BBC Radio 1) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"header_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"id": 10036383,
+				"lyrics_owner_id": 548516,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-no-lucifer-steve-lamacq-in-new-music-we-trust-session-bbc-radio-1-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-no-lucifer-steve-lamacq-in-new-music-we-trust-session-bbc-radio-1-sample",
+				"release_date_components": {
+					"year": 2024,
+					"month": 2,
+					"day": 9
+				},
+				"release_date_for_display": "February 9, 2024",
+				"release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+				"song_art_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"song_art_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "No Lucifer (Steve Lamacq In New Music We Trust Session, BBC Radio 1)",
+				"title_with_featured": "No Lucifer (Steve Lamacq In New Music We Trust Session, BBC Radio 1)",
+				"url": "https://genius.com/Sea-power-no-lucifer-steve-lamacq-in-new-music-we-trust-session-bbc-radio-1-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/2242638",
+				"artist_names": "Sea Power",
+				"full_title": "No Man Is an Archipelago by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"id": 2242638,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-no-man-is-an-archipelago-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-no-man-is-an-archipelago-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "No Man Is an Archipelago",
+				"title_with_featured": "No Man Is an Archipelago",
+				"url": "https://genius.com/Sea-power-no-man-is-an-archipelago-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1567609",
+				"artist_names": "Sea Power",
+				"full_title": "No Need to Cry by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"id": 1567609,
+				"lyrics_owner_id": 548516,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-no-need-to-cry-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-no-need-to-cry-sample",
+				"release_date_components": {
+					"year": 2008,
+					"month": 1,
+					"day": 13
+				},
+				"release_date_for_display": "January 13, 2008",
+				"release_date_with_abbreviated_month_for_display": "Jan. 13, 2008",
+				"song_art_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "No Need to Cry",
+				"title_with_featured": "No Need to Cry",
+				"url": "https://genius.com/Sea-power-no-need-to-cry-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/958694",
+				"artist_names": "Sea Power",
+				"full_title": "No Red Indian by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"id": 958694,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-no-red-indian-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-no-red-indian-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "No Red Indian",
+				"title_with_featured": "No Red Indian",
+				"url": "https://genius.com/Sea-power-no-red-indian-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 7,
+				"api_path": "/songs/896484",
+				"artist_names": "Sea Power",
+				"full_title": "North Hanging Rock by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"id": 896484,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-north-hanging-rock-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-north-hanging-rock-sample",
+				"release_date_components": {
+					"year": 2005,
+					"month": 4,
+					"day": 4
+				},
+				"release_date_for_display": "April 4, 2005",
+				"release_date_with_abbreviated_month_for_display": "Apr. 4, 2005",
+				"song_art_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 7,
+					"hot": false
+				},
+				"title": "North Hanging Rock",
+				"title_with_featured": "North Hanging Rock",
+				"url": "https://genius.com/Sea-power-north-hanging-rock-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/867164",
+				"artist_names": "Sea Power",
+				"full_title": "Observe the Skies by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"id": 867164,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-observe-the-skies-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-observe-the-skies-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Observe the Skies",
+				"title_with_featured": "Observe the Skies",
+				"url": "https://genius.com/Sea-power-observe-the-skies-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/6452339",
+				"artist_names": "Sea Power",
+				"full_title": "Off We Go Into the Wild Pale Yonder by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452339,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-off-we-go-into-the-wild-pale-yonder-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-off-we-go-into-the-wild-pale-yonder-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 1,
+					"hot": false
+				},
+				"title": "Off We Go Into the Wild Pale Yonder",
+				"title_with_featured": "Off We Go Into the Wild Pale Yonder",
+				"url": "https://genius.com/Sea-power-off-we-go-into-the-wild-pale-yonder-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1578430",
+				"artist_names": "Sea Power",
+				"full_title": "Oh Larsen B by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"id": 1578430,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-oh-larsen-b-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-oh-larsen-b-sample",
+				"release_date_components": {
+					"year": 2005,
+					"month": 4,
+					"day": 4
+				},
+				"release_date_for_display": "April 4, 2005",
+				"release_date_with_abbreviated_month_for_display": "Apr. 4, 2005",
+				"song_art_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Oh Larsen B",
+				"title_with_featured": "Oh Larsen B",
+				"url": "https://genius.com/Sea-power-oh-larsen-b-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1289444",
+				"artist_names": "Sea Power",
+				"full_title": "Once More Now by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"id": 1289444,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-once-more-now-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-once-more-now-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Once More Now",
+				"title_with_featured": "Once More Now",
+				"url": "https://genius.com/Sea-power-once-more-now-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/10036364",
+				"artist_names": "Sea Power",
+				"full_title": "Ooby Dooby Doo (2024 Remaster) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"header_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"id": 10036364,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-ooby-dooby-doo-2024-remaster-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-ooby-dooby-doo-2024-remaster-sample",
+				"release_date_components": {
+					"year": 2024,
+					"month": 2,
+					"day": 9
+				},
+				"release_date_for_display": "February 9, 2024",
+				"release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+				"song_art_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"song_art_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Ooby Dooby Doo (2024 Remaster)",
+				"title_with_featured": "Ooby Dooby Doo (2024 Remaster)",
+				"url": "https://genius.com/Sea-power-ooby-dooby-doo-2024-remaster-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1507839",
+				"artist_names": "Sea Power",
+				"full_title": "Open the Door by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"id": 1507839,
+				"lyrics_owner_id": 548516,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-open-the-door-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-open-the-door-sample",
+				"release_date_components": {
+					"year": 2008,
+					"month": 1,
+					"day": 13
+				},
+				"release_date_for_display": "January 13, 2008",
+				"release_date_with_abbreviated_month_for_display": "Jan. 13, 2008",
+				"song_art_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Open the Door",
+				"title_with_featured": "Open the Door",
+				"url": "https://genius.com/Sea-power-open-the-door-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/10036365",
+				"artist_names": "Sea Power",
+				"full_title": "Open the Door (6 Music Hub Session) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"header_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"id": 10036365,
+				"lyrics_owner_id": 548516,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-open-the-door-6-music-hub-session-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-open-the-door-6-music-hub-session-sample",
+				"release_date_components": {
+					"year": 2024,
+					"month": 2,
+					"day": 9
+				},
+				"release_date_for_display": "February 9, 2024",
+				"release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+				"song_art_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"song_art_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Open the Door (6 Music Hub Session)",
+				"title_with_featured": "Open the Door (6 Music Hub Session)",
+				"url": "https://genius.com/Sea-power-open-the-door-6-music-hub-session-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1116939",
+				"artist_names": "Sea Power",
+				"full_title": "Over In The Corner by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+				"id": 1116939,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-over-in-the-corner-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-over-in-the-corner-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Over In The Corner",
+				"title_with_featured": "Over In The Corner",
+				"url": "https://genius.com/Sea-power-over-in-the-corner-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714755",
+				"artist_names": "Sea Power",
+				"full_title": "Pardon My Friends by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.546x546x1.jpg",
+				"id": 7714755,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "incomplete",
+				"path": "/Sea-power-pardon-my-friends-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-pardon-my-friends-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.546x546x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Pardon My Friends",
+				"title_with_featured": "Pardon My Friends",
+				"url": "https://genius.com/Sea-power-pardon-my-friends-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714825",
+				"artist_names": "Sea Power",
+				"full_title": "Perspectives of Stinky Turner by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714825,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-perspectives-of-stinky-turner-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-perspectives-of-stinky-turner-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Perspectives of Stinky Turner",
+				"title_with_featured": "Perspectives of Stinky Turner",
+				"url": "https://genius.com/Sea-power-perspectives-of-stinky-turner-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1567125",
+				"artist_names": "Sea Power",
+				"full_title": "Please Stand Up by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"id": 1567125,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-please-stand-up-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-please-stand-up-sample",
+				"release_date_components": {
+					"year": 2005,
+					"month": 4,
+					"day": 4
+				},
+				"release_date_for_display": "April 4, 2005",
+				"release_date_with_abbreviated_month_for_display": "Apr. 4, 2005",
+				"song_art_image_thumbnail_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/4e3db60c6003383b3b3294140759aa34.818x737x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Please Stand Up",
+				"title_with_featured": "Please Stand Up",
+				"url": "https://genius.com/Sea-power-please-stand-up-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452317",
+				"artist_names": "Sea Power",
+				"full_title": "Polyhedrons by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452317,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-polyhedrons-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-polyhedrons-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Polyhedrons",
+				"title_with_featured": "Polyhedrons",
+				"url": "https://genius.com/Sea-power-polyhedrons-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/3049345",
+				"artist_names": "Sea Power",
+				"full_title": "Praise for Whatever by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.1000x1000x1.jpg",
+				"id": 3049345,
+				"lyrics_owner_id": 2077942,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-praise-for-whatever-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-praise-for-whatever-sample",
+				"release_date_components": {
+					"year": 2017,
+					"month": 3,
+					"day": 31
+				},
+				"release_date_for_display": "March 31, 2017",
+				"release_date_with_abbreviated_month_for_display": "Mar. 31, 2017",
+				"song_art_image_thumbnail_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Praise for Whatever",
+				"title_with_featured": "Praise for Whatever",
+				"url": "https://genius.com/Sea-power-praise-for-whatever-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452315",
+				"artist_names": "Sea Power",
+				"full_title": "Precinct 41 Major Crime Unit by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452315,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-precinct-41-major-crime-unit-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-precinct-41-major-crime-unit-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Precinct 41 Major Crime Unit",
+				"title_with_featured": "Precinct 41 Major Crime Unit",
+				"url": "https://genius.com/Sea-power-precinct-41-major-crime-unit-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/907963",
+				"artist_names": "Sea Power",
+				"full_title": "Radio Goddard by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"id": 907963,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-radio-goddard-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": 1,
+				"relationships_index_url": "https://genius.com/Sea-power-radio-goddard-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Radio Goddard",
+				"title_with_featured": "Radio Goddard",
+				"url": "https://genius.com/Sea-power-radio-goddard-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6761338",
+				"artist_names": "Sea Power",
+				"full_title": "Red Rock Riviera by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 6761338,
+				"lyrics_owner_id": 12929467,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-red-rock-riviera-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": 2,
+				"relationships_index_url": "https://genius.com/Sea-power-red-rock-riviera-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Red Rock Riviera",
+				"title_with_featured": "Red Rock Riviera",
+				"url": "https://genius.com/Sea-power-red-rock-riviera-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714797",
+				"artist_names": "Sea Power",
+				"full_title": "Remarkable Diving Feat by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714797,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-remarkable-diving-feat-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-remarkable-diving-feat-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Remarkable Diving Feat",
+				"title_with_featured": "Remarkable Diving Feat",
+				"url": "https://genius.com/Sea-power-remarkable-diving-feat-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1619066",
+				"artist_names": "Sea Power",
+				"full_title": "Remember Me by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"id": 1619066,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-remember-me-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-remember-me-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Remember Me",
+				"title_with_featured": "Remember Me",
+				"url": "https://genius.com/Sea-power-remember-me-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1425453",
+				"artist_names": "Sea Power",
+				"full_title": "Remember Me (single version) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+				"id": 1425453,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-remember-me-single-version-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-remember-me-single-version-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Remember Me (single version)",
+				"title_with_featured": "Remember Me (single version)",
+				"url": "https://genius.com/Sea-power-remember-me-single-version-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714758",
+				"artist_names": "Sea Power",
+				"full_title": "Retreat by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.546x546x1.jpg",
+				"id": 7714758,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "incomplete",
+				"path": "/Sea-power-retreat-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-retreat-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/3c8177dc2a8c5dc2e77c36eb310e4cd2.546x546x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Retreat",
+				"title_with_featured": "Retreat",
+				"url": "https://genius.com/Sea-power-retreat-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452323",
+				"artist_names": "Sea Power",
+				"full_title": "Rue de Saint-Ghislaine 32B by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452323,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-rue-de-saint-ghislaine-32b-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-rue-de-saint-ghislaine-32b-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Rue de Saint-Ghislaine 32B",
+				"title_with_featured": "Rue de Saint-Ghislaine 32B",
+				"url": "https://genius.com/Sea-power-rue-de-saint-ghislaine-32b-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452332",
+				"artist_names": "Sea Power",
+				"full_title": "Saint-Brune 1147 (Small Pinewood Church) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452332,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-saint-brune-1147-small-pinewood-church-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-saint-brune-1147-small-pinewood-church-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Saint-Brune 1147 (Small Pinewood Church)",
+				"title_with_featured": "Saint-Brune 1147 (Small Pinewood Church)",
+				"url": "https://genius.com/Sea-power-saint-brune-1147-small-pinewood-church-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/3047466",
+				"artist_names": "Sea Power",
+				"full_title": "Saint Jerome by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.1000x1000x1.jpg",
+				"id": 3047466,
+				"lyrics_owner_id": 2077942,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-saint-jerome-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-saint-jerome-sample",
+				"release_date_components": {
+					"year": 2017,
+					"month": 3,
+					"day": 31
+				},
+				"release_date_for_display": "March 31, 2017",
+				"release_date_with_abbreviated_month_for_display": "Mar. 31, 2017",
+				"song_art_image_thumbnail_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/be88bce819d46281335403b2e6f7d3e5.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Saint Jerome",
+				"title_with_featured": "Saint Jerome",
+				"url": "https://genius.com/Sea-power-saint-jerome-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1160957",
+				"artist_names": "Sea Power",
+				"full_title": "Salty Water by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"id": 1160957,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-salty-water-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-salty-water-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Salty Water",
+				"title_with_featured": "Salty Water",
+				"url": "https://genius.com/Sea-power-salty-water-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/10036394",
+				"artist_names": "Sea Power",
+				"full_title": "Save the Purple House (2024 Remaster) by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"header_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"id": 10036394,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-save-the-purple-house-2024-remaster-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-save-the-purple-house-2024-remaster-sample",
+				"release_date_components": {
+					"year": 2024,
+					"month": 2,
+					"day": 9
+				},
+				"release_date_for_display": "February 9, 2024",
+				"release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+				"song_art_image_thumbnail_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.300x300x1.png",
+				"song_art_image_url": "https://images.genius.com/06f3b77bd736bbab98843f50b5f32b64.1000x1000x1.png",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Save the Purple House (2024 Remaster)",
+				"title_with_featured": "Save the Purple House (2024 Remaster)",
+				"url": "https://genius.com/Sea-power-save-the-purple-house-2024-remaster-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 5,
+				"api_path": "/songs/7588340",
+				"artist_names": "Sea Power",
+				"full_title": "Scaring at the Sky by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/0d7964f0012ba66c9aea521451c3d9e7.300x300x1.png",
+				"header_image_url": "https://images.genius.com/0d7964f0012ba66c9aea521451c3d9e7.1000x1000x1.png",
+				"id": 7588340,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-scaring-at-the-sky-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": 1,
+				"relationships_index_url": "https://genius.com/Sea-power-scaring-at-the-sky-sample",
+				"release_date_components": {
+					"year": 2022,
+					"month": 2,
+					"day": 18
+				},
+				"release_date_for_display": "February 18, 2022",
+				"release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+				"song_art_image_thumbnail_url": "https://images.genius.com/0d7964f0012ba66c9aea521451c3d9e7.300x300x1.png",
+				"song_art_image_url": "https://images.genius.com/0d7964f0012ba66c9aea521451c3d9e7.1000x1000x1.png",
+				"stats": {
+					"unreviewed_annotations": 5,
+					"hot": false
+				},
+				"title": "Scaring at the Sky",
+				"title_with_featured": "Scaring at the Sky",
+				"url": "https://genius.com/Sea-power-scaring-at-the-sky-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/921736",
+				"artist_names": "Sea Power",
+				"full_title": "Something Wicked by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"id": 921736,
+				"lyrics_owner_id": 1575164,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-something-wicked-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-something-wicked-sample",
+				"release_date_components": {
+					"year": 2003,
+					"month": 9,
+					"day": 9
+				},
+				"release_date_for_display": "September 9, 2003",
+				"release_date_with_abbreviated_month_for_display": "Sep. 9, 2003",
+				"song_art_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Something Wicked",
+				"title_with_featured": "Something Wicked",
+				"url": "https://genius.com/Sea-power-something-wicked-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/2240483",
+				"artist_names": "Sea Power",
+				"full_title": "Spearing the Sunfish by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"id": 2240483,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-spearing-the-sunfish-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-spearing-the-sunfish-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Spearing the Sunfish",
+				"title_with_featured": "Spearing the Sunfish",
+				"url": "https://genius.com/Sea-power-spearing-the-sunfish-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714770",
+				"artist_names": "Sea Power",
+				"full_title": "Spring Has Sprung by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"id": 7714770,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-spring-has-sprung-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-spring-has-sprung-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/ea58df9252b70e8fbdc5bdc5ce5debd5.363x363x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Spring Has Sprung",
+				"title_with_featured": "Spring Has Sprung",
+				"url": "https://genius.com/Sea-power-spring-has-sprung-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/728341",
+				"artist_names": "Sea Power",
+				"full_title": "Straight Down the Line by Sea Power",
+				"header_image_thumbnail_url": "https://images.rapgenius.com/94b579fb643ecf3ab26b7bc064aeb742.300x300x1.jpg",
+				"header_image_url": "https://images.rapgenius.com/94b579fb643ecf3ab26b7bc064aeb742.500x500x1.jpg",
+				"id": 728341,
+				"lyrics_owner_id": 1575164,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-straight-down-the-line-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-straight-down-the-line-sample",
+				"release_date_components": {
+					"year": 2007,
+					"month": 10,
+					"day": 8
+				},
+				"release_date_for_display": "October 8, 2007",
+				"release_date_with_abbreviated_month_for_display": "Oct. 8, 2007",
+				"song_art_image_thumbnail_url": "https://images.rapgenius.com/94b579fb643ecf3ab26b7bc064aeb742.300x300x1.jpg",
+				"song_art_image_url": "https://images.rapgenius.com/94b579fb643ecf3ab26b7bc064aeb742.500x500x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Straight Down the Line",
+				"title_with_featured": "Straight Down the Line",
+				"url": "https://genius.com/Sea-power-straight-down-the-line-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1004643",
+				"artist_names": "Sea Power",
+				"full_title": "Strange Communication by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"header_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"id": 1004643,
+				"lyrics_owner_id": 16434178,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-strange-communication-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-strange-communication-sample",
+				"release_date_components": {
+					"year": 2003,
+					"month": 9,
+					"day": 9
+				},
+				"release_date_for_display": "September 9, 2003",
+				"release_date_with_abbreviated_month_for_display": "Sep. 9, 2003",
+				"song_art_image_thumbnail_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.300x270x1.jpg",
+				"song_art_image_url": "https://images.genius.com/aec43d96a61c6ab6b3fa0a3c0817bc4d.816x734x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Strange Communication",
+				"title_with_featured": "Strange Communication",
+				"url": "https://genius.com/Sea-power-strange-communication-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714798",
+				"artist_names": "Sea Power",
+				"full_title": "Strange Sports by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714798,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-strange-sports-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-strange-sports-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Strange Sports",
+				"title_with_featured": "Strange Sports",
+				"url": "https://genius.com/Sea-power-strange-sports-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/1149290",
+				"artist_names": "Sea Power",
+				"full_title": "Stunde Null by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"id": 1149290,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-stunde-null-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-stunde-null-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a662cb1c7d959cd92e0ab910f2da0975.300x300x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Stunde Null",
+				"title_with_featured": "Stunde Null",
+				"url": "https://genius.com/Sea-power-stunde-null-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714801",
+				"artist_names": "Sea Power",
+				"full_title": "Suffragette Riots by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714801,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-suffragette-riots-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-suffragette-riots-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "Suffragette Riots",
+				"title_with_featured": "Suffragette Riots",
+				"url": "https://genius.com/Sea-power-suffragette-riots-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452327",
+				"artist_names": "Sea Power",
+				"full_title": "The Cryptozoologists by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452327,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-cryptozoologists-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-cryptozoologists-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Cryptozoologists",
+				"title_with_featured": "The Cryptozoologists",
+				"url": "https://genius.com/Sea-power-the-cryptozoologists-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/2216166",
+				"artist_names": "Sea Power",
+				"full_title": "The Currach by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"id": 2216166,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-currach-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-currach-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/cf34264dca59c231239298b54cb96d8d.999x999x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Currach",
+				"title_with_featured": "The Currach",
+				"url": "https://genius.com/Sea-power-the-currach-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452325",
+				"artist_names": "Sea Power",
+				"full_title": "The Doomed Commercial Area by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452325,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-doomed-commercial-area-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-doomed-commercial-area-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Doomed Commercial Area",
+				"title_with_featured": "The Doomed Commercial Area",
+				"url": "https://genius.com/Sea-power-the-doomed-commercial-area-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452319",
+				"artist_names": "Sea Power",
+				"full_title": "The Field Autopsy by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452319,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-field-autopsy-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-field-autopsy-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Field Autopsy",
+				"title_with_featured": "The Field Autopsy",
+				"url": "https://genius.com/Sea-power-the-field-autopsy-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 1,
+				"api_path": "/songs/2234471",
+				"artist_names": "Sea Power",
+				"full_title": "The Great Skua by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"id": 2234471,
+				"lyrics_owner_id": 1549345,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-great-skua-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-great-skua-sample",
+				"release_date_components": {
+					"year": 2008,
+					"month": 1,
+					"day": 13
+				},
+				"release_date_for_display": "January 13, 2008",
+				"release_date_with_abbreviated_month_for_display": "Jan. 13, 2008",
+				"song_art_image_thumbnail_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/a7899e8c2b9880f51a065830327d8ee9.600x600x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Great Skua",
+				"title_with_featured": "The Great Skua",
+				"url": "https://genius.com/Sea-power-the-great-skua-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714800",
+				"artist_names": "Sea Power",
+				"full_title": "The Guillemot Girls by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714800,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-guillemot-girls-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-guillemot-girls-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Guillemot Girls",
+				"title_with_featured": "The Guillemot Girls",
+				"url": "https://genius.com/Sea-power-the-guillemot-girls-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/6452316",
+				"artist_names": "Sea Power",
+				"full_title": "The Insulindian Miracle by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"id": 6452316,
+				"lyrics_owner_id": 7460797,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-insulindian-miracle-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-insulindian-miracle-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/371a214f05913d1b6db12101b84dbdb8.1000x1000x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Insulindian Miracle",
+				"title_with_featured": "The Insulindian Miracle",
+				"url": "https://genius.com/Sea-power-the-insulindian-miracle-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			},
+			{
+				"annotation_count": 0,
+				"api_path": "/songs/7714829",
+				"artist_names": "Sea Power",
+				"full_title": "The Islanders by Sea Power",
+				"header_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"header_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"id": 7714829,
+				"lyrics_owner_id": 8613973,
+				"lyrics_state": "complete",
+				"path": "/Sea-power-the-islanders-lyrics",
+				"primary_artist_names": "Sea Power",
+				"pyongs_count": null,
+				"relationships_index_url": "https://genius.com/Sea-power-the-islanders-sample",
+				"release_date_components": null,
+				"release_date_for_display": null,
+				"release_date_with_abbreviated_month_for_display": null,
+				"song_art_image_thumbnail_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.300x300x1.jpg",
+				"song_art_image_url": "https://images.genius.com/243ff43ccbb85851290f1dc2f252e5c4.540x540x1.jpg",
+				"stats": {
+					"unreviewed_annotations": 0,
+					"hot": false
+				},
+				"title": "The Islanders",
+				"title_with_featured": "The Islanders",
+				"url": "https://genius.com/Sea-power-the-islanders-lyrics",
+				"featured_artists": [],
+				"primary_artist": {
+					"api_path": "/artists/39205",
+					"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"id": 39205,
+					"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+					"is_meme_verified": false,
+					"is_verified": false,
+					"name": "Sea Power",
+					"url": "https://genius.com/artists/Sea-power"
+				},
+				"primary_artists": [
+					{
+						"api_path": "/artists/39205",
+						"header_image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"id": 39205,
+						"image_url": "https://images.genius.com/5bf1b491d6457e5bc4bf3ccf34ec0b05.334x334x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Sea Power",
+						"url": "https://genius.com/artists/Sea-power"
+					}
+				]
+			}
+		],
+		"next_page": 4
+	}
+}
