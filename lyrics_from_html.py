@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from sys import argv
+
 from bs4 import BeautifulSoup
 
 
