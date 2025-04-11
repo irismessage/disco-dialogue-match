@@ -1,16 +1,18 @@
 #!/usr/bin/env python
 
+from sys import argv
 from bs4 import BeautifulSoup
 
 
 def get_lyrics(soup: BeautifulSoup) -> str:
     lyrics_block = soup.find(attrs={"data-lyrics-container": "true"})
-    paragraphs = lyrics_block.find_all("p")
-    return "\n".join("\n".join(p.stripped_strings for p in paragraphs))
+    header = lyrics_block.find("div", attrs={"data-exclude-from-selection": "true"})
+    header.clear()
+    return "\n".join(lyrics_block.stripped_strings)
 
 
 def main():
-    with open("html/Sea-power-a-light-above-descending-lyrics") as f:
+    with open(argv[1]) as f:
         soup = BeautifulSoup(f.read(), "html.parser")
     print(get_lyrics(soup))
 
