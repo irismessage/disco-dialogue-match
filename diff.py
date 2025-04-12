@@ -12,7 +12,7 @@ import tokenise
 # [Match(a=0, b=4, size=3), Match(a=7, b=7, size=0)]
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
-TEST = True
+TEST = False
 
 log = logging.getLogger()
 logging.basicConfig(level=logging.INFO, stream=stderr)
@@ -24,9 +24,10 @@ def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def my_match(a: Sequence, b: Sequence) -> list[Match]:    
-    matches = []
-    for cursor_a in range(len(a)):
-        print(cursor_a / len(a))
+    def match_b(cursor_a: int) -> list[Match]:
+        log.info(cursor_a / len(a))
+        matches_b = []
+
         for cursor_b in range(len(b)):
             if a[cursor_a] == b[cursor_b]:
                 match_size = 1
@@ -37,7 +38,13 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
                 ):
                     match_size += 1
 
-                matches.append(Match(cursor_a, cursor_b, match_size))
+                matches_b.append(Match(cursor_a, cursor_b, match_size))
+
+        return matches_b
+
+    matches = []
+    for cursor_a in range(len(a)):
+        matches.extend(match_b(cursor_a))
 
     return matches
 
