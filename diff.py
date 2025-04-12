@@ -48,7 +48,7 @@ def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
                 ):
                     match_size += 1
 
-                if match_size > MATCH_LENGTH_THRESHOLD:
+                if match_size >= MATCH_LENGTH_THRESHOLD:
                     matches.append(Match(cursor_a, cursor_b, match_size))
 
                 cursor_b += match_size
