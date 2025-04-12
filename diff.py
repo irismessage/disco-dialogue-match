@@ -30,7 +30,7 @@ def main():
 
     print(
         "\n".join(
-            tokenise.detokenise(token_lyrics[m.b : m.b + m.size] for m in matches)
+            tokenise.detokenise(token_lyrics[m.b : m.b + m.size]) for m in matches
         )
     )
 
