@@ -1,0 +1,7 @@
+__pycache__/
+
+html/
+dialogue-process/
+lyrics-process/
+
+*.db
