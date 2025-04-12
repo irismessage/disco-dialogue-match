@@ -49,19 +49,37 @@ class TokenTable:
         return " ".join(self.token_to_word[t] for t in tokens)
 
 
-def main():
+def get_table() -> TokenTable:
     try:
         table = TokenTable.load(TABLE_FILE)
     except FileNotFoundError:
         table = TokenTable()
+    return table
 
-    with open(argv[1]) as f:
-        text = f.read()
+
+def tokenise(text: str) -> list[int]:
+    table = get_table()
 
     tokens = table.tokenise_text(text)
     table.save(TABLE_FILE)
 
+    return tokens
+
+
+def detokenise(tokens: list[int]) -> str:
+    table = get_table()
+    return table.detokenise_text(tokens)
+
+
+def main():
+    with open(argv[1]) as f:
+        text = f.read()
+    tokens = tokenise(text)
     print(tokens)
+    retext = detokenise(tokens)
+    print(retext)
+    assert text == retext
+
 
 
 if __name__ == "__main__":

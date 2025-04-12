@@ -3,6 +3,8 @@ import difflib
 from difflib import Match
 from pathlib import Path
 
+import tokenise
+
 
 # could maybe parallelise this by combining blocks?
 def print_matching_blocks(a, b):
@@ -17,16 +19,20 @@ def load_matching_blocks() -> list[Match]:
 
 
 def main():
-    a_fp = Path("dialogue-process/done.txt")
-    b_fp = Path("lyrics-process/done.txt")
-    a = a_fp.read_text()
-    b = b_fp.read_text()
+    fp_dialogue = Path("dialogue-process/done.txt")
+    fp_lyrics = Path("lyrics-process/done.txt")
 
-    # print_matching_blocks(a, b)
+    token_dialogue = tokenise.tokenise(fp_dialogue.read_text())
+    token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
 
-    matches = load_matching_blocks()
-    for m in matches:
-        print(a[m.a : m.a + m.size])
+    matcher = difflib.SequenceMatcher(a=token_dialogue, b=token_lyrics)
+    matches = matcher.get_matching_blocks()
+
+    print(
+        "\n".join(
+            tokenise.detokenise(token_lyrics[m.b : m.b + m.size] for m in matches)
+        )
+    )
 
 
 if __name__ == "__main__":
