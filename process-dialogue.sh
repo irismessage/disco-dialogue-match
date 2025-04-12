@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -eux
 
-in_file='dialoguetextextra.txt'
+in_file='dialoguetext.txt'
 dir='dialogue-process'
 mkdir -p "${dir}"
 
