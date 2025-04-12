@@ -109,7 +109,8 @@ def main():
     token_table = tokenise.get_table()
     print(
         "\n".join(
-            token_table.detokenise_text(token_lyrics[m.a : m.a + m.size]) for m in matches
+            token_table.detokenise_text(token_lyrics[m.a : m.a + m.size])
+            for m in matches
         )
     )
     log.info("done")

@@ -9,7 +9,17 @@ def get_lyrics(soup: BeautifulSoup) -> str:
     lyrics_block = soup.find(attrs={"data-lyrics-container": "true"})
     header = lyrics_block.find("div", attrs={"data-exclude-from-selection": "true"})
     header.clear()
-    return "\n".join(lyrics_block.stripped_strings)
+
+    lyrics_lines = list(lyrics_block.stripped_strings)
+
+    title = (
+        soup.find("title")
+        .string.removeprefix("Sea Power – ")
+        .removesuffix(" Lyrics | Genius Lyrics")
+    )
+    lyrics_lines.insert(0, title)
+
+    return "\n".join(lyrics_lines)
 
 
 def main():
