@@ -15,7 +15,7 @@ class TokenTable:
         self.word_to_token: dict[str, int] = {}
         self.token_to_word: dict[int, str] = {}
         self.tokenised_words: set[str] = set()
-        self.next_token = 1
+        self.next_token = 0
 
     @classmethod
     def load(cls, fp: PathLike) -> Self:
@@ -75,9 +75,10 @@ def main():
     with open(argv[1]) as f:
         text = f.read()
     tokens = tokenise(text)
-    print(tokens)
+    # print(tokens)
     retext = detokenise(tokens)
     print(retext)
+    # print(len(text), len(retext))
     assert text == retext
 
 
