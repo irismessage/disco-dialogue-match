@@ -1,8 +1,9 @@
 #!/usr/bin/env python
+import json
 import logging
 from concurrent.futures import ProcessPoolExecutor
 from difflib import Match, SequenceMatcher
-from itertools import repeat, batched
+from itertools import batched, repeat
 from pathlib import Path
 from sys import stderr
 from typing import Sequence
@@ -67,6 +68,7 @@ def my_match_parallel(a: Sequence, b: Sequence) -> list[Match]:
     matches = []
 
     with ProcessPoolExecutor(max_workers=processes) as executor:
+        # todo better way to pass same arguments?
         for matches_b in executor.map(
             match_b,
             (range(i, len(a), processes) for i in range(processes)),
@@ -96,13 +98,15 @@ def main():
     matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
     log.info("sorted")
 
+    with open("matches.json", "w") as f:
+        json.dump(matches, f)
+
     token_table = tokenise.get_table()
-    for matches_batches in batched(matches, n=1000):
-        print(
-            "\n".join(
-                token_table.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches_batches
-            ) 
+    print(
+        "\n".join(
+            token_table.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches
         )
+    )
     log.info("done")
 
 

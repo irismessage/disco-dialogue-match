@@ -1,8 +1,0 @@
-a b c
-j k l
-g h i
-p q r
-v w x
-m n o
-d e f
-s t u
