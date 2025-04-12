@@ -24,7 +24,19 @@ def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def my_match(a: Sequence, b: Sequence) -> list[Match]:
-    pass
+    matches = []
+    for cursor_a in range(len(a)):
+        for cursor_b in range(len(b)):
+            if a[cursor_a] == b[cursor_b]:
+                match_size = 1
+                while (
+                    a[cursor_a + match_size] == b[cursor_a + match_size]
+                    and cursor_a + match_size < len(a)
+                    and cursor_a + match_size < len(b)
+                ):
+                    match_size += 1
+
+                matches.append(Match(cursor_a, cursor_b, match_size))
 
 
 def main():
@@ -40,7 +52,7 @@ def main():
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
     log.info("tokenised")
 
-    matches = difflib_match(token_dialogue, token_lyrics)
+    matches = my_match(token_dialogue, token_lyrics)
     log.info("matched")
     matches.sort(key=lambda m: m.size, reverse=True)
     log.info("sorted")
