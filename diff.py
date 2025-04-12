@@ -14,7 +14,7 @@ import tokenise
 # [Match(a=0, b=4, size=3), Match(a=7, b=7, size=0)]
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
-TEST = False
+TEST = True
 MATCH_LENGTH_THRESHOLD = 2
 
 log = logging.getLogger()
