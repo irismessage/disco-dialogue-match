@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 from sys import argv
-from typing import Union
+from typing import Self, Union
 
 PathLike = Union[str, Path]
 
@@ -18,13 +18,15 @@ class TokenTable:
         self.next_token = 1
 
     @classmethod
-    def load(cls, fp: PathLike):
+    def load(cls, fp: PathLike) -> Self:
         table = cls()
         with open(fp) as f:
             table.word_to_token = json.load(f)
         table.token_to_word = {v: k for k, v in table.word_to_token.items()}
         table.tokenised_words = set(table.word_to_token.keys())
         table.next_token = len(table.tokenised_words)
+
+        return table
 
     def save(self, fp: PathLike):
         with open(fp, "w") as f:
@@ -57,7 +59,7 @@ def main():
         text = f.read()
 
     tokens = table.tokenise_text(text)
-    table.save()
+    table.save(TABLE_FILE)
 
     print(tokens)
 
