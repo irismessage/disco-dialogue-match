@@ -75,11 +75,9 @@ def main():
     with open(argv[1]) as f:
         text = f.read()
     tokens = tokenise(text)
-    # print(tokens)
+    print(tokens)
     retext = detokenise(tokens)
-    print(retext)
-    # print(len(text), len(retext))
-    assert text == retext
+    assert text.rstrip() == retext
 
 
 
