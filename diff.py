@@ -25,7 +25,7 @@ def main():
     token_dialogue = tokenise.tokenise(fp_dialogue.read_text())
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
 
-    matcher = difflib.SequenceMatcher(a=token_dialogue, b=token_lyrics)
+    matcher = difflib.SequenceMatcher(a=token_dialogue, b=token_lyrics, autojunk=False)
     matches = matcher.get_matching_blocks()
 
     print(
