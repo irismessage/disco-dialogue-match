@@ -14,7 +14,7 @@ import tokenise
 # [Match(a=0, b=4, size=3), Match(a=7, b=7, size=0)]
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
-TEST = True
+TEST = False
 MATCH_LENGTH_THRESHOLD = 2
 
 log = logging.getLogger()
@@ -96,10 +96,11 @@ def main():
     matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
     log.info("sorted")
 
+    token_table = tokenise.get_table()
     for matches_batches in batched(matches, n=1000):
         print(
             "\n".join(
-                tokenise.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches_batches
+                token_table.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches_batches
             ) 
         )
     log.info("done")
