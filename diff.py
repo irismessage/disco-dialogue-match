@@ -2,7 +2,7 @@
 import logging
 from concurrent.futures import ProcessPoolExecutor
 from difflib import Match, SequenceMatcher
-from itertools import repeat
+from itertools import repeat, batched
 from pathlib import Path
 from sys import stderr
 from typing import Sequence
@@ -57,7 +57,7 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def my_match_parallel(a: Sequence, b: Sequence) -> list[Match]:
-    processes = 10
+    processes = 11
 
     matches = []
 
@@ -87,15 +87,17 @@ def main():
     log.info("tokenised")
 
     matches = my_match_parallel(token_lyrics, token_dialogue)
-    log.info("matched")
+    log.info(f"matched {len(matches)}")
     matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
     log.info("sorted")
 
-    print(
-        "\n".join(
-            tokenise.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches
+    for matches_batches in batched(matches, n=1000):
+        print(
+            "\n".join(
+                tokenise.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches_batches
+            ) 
         )
-    )
+    log.info("done")
 
 
 if __name__ == "__main__":
