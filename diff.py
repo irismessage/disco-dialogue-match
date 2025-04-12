@@ -36,7 +36,8 @@ def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
             log.info(f"process {range_a.start} {cursor_a / len(a) * 100:.2f}%")
             milestone += milestone_split
 
-        for cursor_b in range(len(b)):
+        cursor_b = 0
+        while cursor_b < len(b):
             if a[cursor_a] == b[cursor_b]:
                 match_size = 1
                 while (
@@ -48,6 +49,10 @@ def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
 
                 if match_size > MATCH_LENGTH_THRESHOLD:
                     matches.append(Match(cursor_a, cursor_b, match_size))
+
+                cursor_b += match_size
+            else:
+                cursor_b += 1
 
     return matches
 
