@@ -93,10 +93,14 @@ def main():
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
     log.info("tokenised")
 
-    matches = my_match_parallel(token_lyrics, token_dialogue)
-    log.info(f"matched {len(matches)}")
-    matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
-    log.info("sorted")
+    # matches = my_match_parallel(token_lyrics, token_dialogue)
+    # log.info(f"matched {len(matches)}")
+    # matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
+    # log.info("sorted")
+
+    with open("matches.json", "r") as f:
+        matches = [Match(*m) for m in json.load(f)]
+
 
     with open("matches.json", "w") as f:
         json.dump(matches, f)
