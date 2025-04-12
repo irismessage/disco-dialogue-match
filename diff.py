@@ -26,7 +26,7 @@ def main():
 
     matches = load_matching_blocks()
     for m in matches:
-        print(a[m.a:m.a + m.size])
+        print(a[m.a : m.a + m.size])
 
 
 if __name__ == "__main__":
