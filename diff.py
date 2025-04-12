@@ -6,16 +6,11 @@ from pathlib import Path
 import tokenise
 
 
-# could maybe parallelise this by combining blocks?
-def print_matching_blocks(a, b):
-    matcher = difflib.SequenceMatcher(a=a, b=b)
-    print(matcher.get_matching_blocks())
-
-
-def load_matching_blocks() -> list[Match]:
-    fp = Path("matches.txt")
-    matches = eval(fp.read_text())
-    return matches
+# the problem with the difflib algorithm:
+# > difflib.SequenceMatcher(a='abc def', b='def abc').get_matching_blocks()
+# [Match(a=0, b=4, size=3), Match(a=7, b=7, size=0)]
+# e.g. both texts contain "feel like a traveller"
+# but cause of the ordering this doesn't catch it
 
 
 def main():
