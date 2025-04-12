@@ -2,6 +2,8 @@
 import logging
 from concurrent.futures import ProcessPoolExecutor
 from difflib import Match, SequenceMatcher
+from itertools import repeat
+from os import process_cpu_count
 from pathlib import Path
 from sys import stderr
 from typing import Sequence
@@ -24,11 +26,9 @@ def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
     return matcher.get_matching_blocks()
 
 
-def my_match(a: Sequence, b: Sequence) -> list[Match]:
-    def match_b(cursor_a: int) -> list[Match]:
-        log.info(cursor_a / len(a))
-        matches = []
-
+def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
+    matches = []
+    for cursor_a in range_a:
         for cursor_b in range(len(b)):
             if a[cursor_a] == b[cursor_b]:
                 match_size = 1
@@ -41,11 +41,25 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
 
                 matches.append(Match(cursor_a, cursor_b, match_size))
 
-        return matches
+    return matches
+
+
+def my_match(a: Sequence, b: Sequence) -> list[Match]:
+    return match_b(range(len(a)), a, b)
+
+
+def my_match_parallel(a: Sequence, b: Sequence) -> list[Match]:
+    processes = process_cpu_count()
 
     matches = []
-    with ProcessPoolExecutor() as executor:
-        for matches_b in executor.map(match_b, range(len(a))):
+
+    with ProcessPoolExecutor(max_workers=processes) as executor:
+        for matches_b in executor.map(
+            match_b,
+            (range(i, len(a), processes) for i in range(processes)),
+            repeat(a),
+            repeat(b),
+        ):
             matches.extend(matches_b)
 
     return matches
@@ -64,14 +78,14 @@ def main():
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
     log.info("tokenised")
 
-    matches = my_match(token_dialogue, token_lyrics)
+    matches = my_match_parallel(token_lyrics, token_dialogue)
     log.info("matched")
-    matches.sort(key=lambda m: m.size, reverse=True)
+    matches.sort(key=lambda m: (m.size, m.a, m.b), reverse=True)
     log.info("sorted")
 
     print(
         "\n".join(
-            tokenise.detokenise(token_lyrics[m.b : m.b + m.size]) for m in matches
+            tokenise.detokenise(token_lyrics[m.a : m.a + m.size]) for m in matches
         )
     )
 
