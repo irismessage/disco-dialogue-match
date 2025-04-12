@@ -3,7 +3,6 @@ import logging
 from concurrent.futures import ProcessPoolExecutor
 from difflib import Match, SequenceMatcher
 from itertools import repeat
-from os import process_cpu_count
 from pathlib import Path
 from sys import stderr
 from typing import Sequence
@@ -56,7 +55,7 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def my_match_parallel(a: Sequence, b: Sequence) -> list[Match]:
-    processes = process_cpu_count()
+    processes = 10
 
     matches = []
 
