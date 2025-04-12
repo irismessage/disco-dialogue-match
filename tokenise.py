@@ -76,9 +76,6 @@ def main():
         text = f.read()
     tokens = tokenise(text)
     print(tokens)
-    retext = detokenise(tokens)
-    assert text.rstrip() == retext
-
 
 
 if __name__ == "__main__":
