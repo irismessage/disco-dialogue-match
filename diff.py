@@ -1,6 +1,8 @@
 #!/usr/bin/env python
+import logging
 from difflib import Match, SequenceMatcher
 from pathlib import Path
+from sys import stderr
 from typing import Sequence
 
 import tokenise
@@ -11,6 +13,9 @@ import tokenise
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
 TEST = False
+
+log = logging.getLogger()
+logging.basicConfig(level=logging.INFO, stream=stderr)
 
 
 def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
@@ -23,6 +28,7 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def main():
+    log.info("start")
     if TEST:
         fp_dialogue = Path("testa.txt")
         fp_lyrics = Path("testb.txt")
@@ -32,8 +38,12 @@ def main():
 
     token_dialogue = tokenise.tokenise(fp_dialogue.read_text())
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
+    log.info("tokenised")
 
     matches = difflib_match(token_dialogue, token_lyrics)
+    log.info("matched")
+    matches.sort(key=lambda m: m.size, reverse=True)
+    log.info("sorted")
 
     print(
         "\n".join(
