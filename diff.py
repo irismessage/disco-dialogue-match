@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import logging
+from concurrent.futures import ProcessPoolExecutor
 from difflib import Match, SequenceMatcher
 from pathlib import Path
 from sys import stderr
@@ -23,10 +24,10 @@ def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
     return matcher.get_matching_blocks()
 
 
-def my_match(a: Sequence, b: Sequence) -> list[Match]:    
+def my_match(a: Sequence, b: Sequence) -> list[Match]:
     def match_b(cursor_a: int) -> list[Match]:
         log.info(cursor_a / len(a))
-        matches_b = []
+        matches = []
 
         for cursor_b in range(len(b)):
             if a[cursor_a] == b[cursor_b]:
@@ -38,13 +39,14 @@ def my_match(a: Sequence, b: Sequence) -> list[Match]:
                 ):
                     match_size += 1
 
-                matches_b.append(Match(cursor_a, cursor_b, match_size))
+                matches.append(Match(cursor_a, cursor_b, match_size))
 
-        return matches_b
+        return matches
 
     matches = []
-    for cursor_a in range(len(a)):
-        matches.extend(match_b(cursor_a))
+    with ProcessPoolExecutor() as executor:
+        for matches_b in executor.map(match_b, range(len(a))):
+            matches.extend(matches_b)
 
     return matches
 
