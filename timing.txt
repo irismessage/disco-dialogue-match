@@ -1,4 +1,0 @@
-________________________________________________________
-Executed in  242.89 secs    fish           external
-   usr time  239.89 secs  244.00 micros  239.89 secs
-   sys time    0.09 secs  244.00 micros    0.09 secs
