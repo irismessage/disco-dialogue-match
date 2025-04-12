@@ -15,6 +15,7 @@ import tokenise
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
 TEST = False
+MATCH_LENGTH_THRESHOLD = 2
 
 log = logging.getLogger()
 logging.basicConfig(level=logging.INFO, stream=stderr)
@@ -45,7 +46,8 @@ def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
                 ):
                     match_size += 1
 
-                matches.append(Match(cursor_a, cursor_b, match_size))
+                if match_size > MATCH_LENGTH_THRESHOLD:
+                    matches.append(Match(cursor_a, cursor_b, match_size))
 
     return matches
 
