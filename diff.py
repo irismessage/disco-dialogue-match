@@ -27,8 +27,15 @@ def difflib_match(a: Sequence, b: Sequence) -> list[Match]:
 
 
 def match_b(range_a: range, a: Sequence, b: Sequence) -> list[Match]:
+    milestone_split = len(a) / 10
+    milestone = 0
+
     matches = []
     for cursor_a in range_a:
+        if cursor_a > milestone:
+            log.info(f"process {range_a.start} {cursor_a / len(a) * 100:.2f}%")
+            milestone += milestone_split
+
         for cursor_b in range(len(b)):
             if a[cursor_a] == b[cursor_b]:
                 match_size = 1
