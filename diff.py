@@ -11,11 +11,16 @@ import tokenise
 # [Match(a=0, b=4, size=3), Match(a=7, b=7, size=0)]
 # e.g. both texts contain "feel like a traveller"
 # but cause of the ordering this doesn't catch it
+TEST = True
 
 
 def main():
-    fp_dialogue = Path("dialogue-process/done.txt")
-    fp_lyrics = Path("lyrics-process/done.txt")
+    if TEST:
+        fp_dialogue = Path("testa.txt")
+        fp_lyrics = Path("testb.txt")
+    else:
+        fp_dialogue = Path("dialogue-process/done.txt")
+        fp_lyrics = Path("lyrics-process/done.txt")
 
     token_dialogue = tokenise.tokenise(fp_dialogue.read_text())
     token_lyrics = tokenise.tokenise(fp_lyrics.read_text())
