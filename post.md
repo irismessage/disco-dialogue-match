@@ -1,3 +1,5 @@
+todo intro
+
 **Soundtrack**
 
 * [*Instrument of Surrender*](https://youtu.be/qMUoWTEIGx4), [*Detective Arriving on the Scene*](https://www.youtube.com/watch?v=rxevPfOxCaU), [*ZA/UM*](https://www.youtube.com/watch?v=-dhSWZTpwyE) (main overworld music) - These are all based on [*Red Rock Riviera*](https://youtu.be/NSkb5OtTmgg) and [*Cleaning out the Rooms*](https://www.youtube.com/watch?v=Yqf-92FNGv4).
@@ -40,3 +42,14 @@
 * [*Shit Factory*](https://seapower.bandcamp.com/track/shit-factory) is [referenced](https://fayde.co.uk/dialojue/10540047) energetically by Limbic System at the end of the second dream sequence, as well as [by Shanky](https://fayde.co.uk/dialojue/6400329) in the Hardie Boys booth. The song is from the EP [*Valhalla V.I.P.*](https://seapower.bandcamp.com/album/valhalla-v-i-p) which had a limited release alongside *Valhalla Dancehall*.
 * While we're on the subject, the name of the game itself could be inspired by the title of that album - both are composed of the name of a mythical afterlife and a genre of music put together.
 * The [taxidermy bird](https://fayde.co.uk/dialojue/130501) Harry has broken at the Whirling is a specimen of the Great Skua, which is the name of [a track](https://www.youtube.com/watch?v=JaBcEav4nJA) from *Do You Like Rock Music?*.
+
+
+todo conclusion
+
+https://musicbrainz.org/release/b1c37602-3850-4634-9e81-45b0501beb6d
+https://www.theguardian.com/games/2025/mar/14/the-odd-drunken-detective-has-been-sighted-at-gigs-how-sea-power-won-legions-of-gamer-fans
+https://www.nintendolife.com/features/meet-sea-power-the-talent-behind-disco-elysiums-exquisite-music
+https://www.techradar.com/news/disco-elysium-how-cult-heroes-british-sea-power-wrote-its-bafta-nominated-score
+https://www.reddit.com/r/DiscoElysium/comments/ofgjul/british_sea_power_references/
+https://www.reddit.com/r/DiscoElysium/comments/hqc6wb/disco_elysium_ost_tracks_and_their_preexisting/
+https://www.youtube.com/watch?v=GRnptZ8dXvA
