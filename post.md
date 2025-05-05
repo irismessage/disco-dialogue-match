@@ -1,8 +1,14 @@
-todo intro
+Since my obsession with this game merged into a stereo-obsession with the band who made the music, Sea Power (a.k.a. British Sea Power until 2021), I've spent some time learning the connections between their different tracks, noting them down and also tagging what I find on MusicBrainz, e.g. [here](https://musicbrainz.org/release/61d0dba6-1cfb-440b-a0bd-c3429c941db1).
+
+I've found a post with some [pre-existing counterparts](https://www.reddit.com/r/DiscoElysium/comments/hqc6wb/disco_elysium_ost_tracks_and_their_preexisting/) and one about [references](https://www.reddit.com/r/DiscoElysium/comments/ofgjul/british_sea_power_references/) but neither seemed to have everything and I wanted to assemble it all into one place here.
+
+There are also some articles ([techradar](https://www.techradar.com/news/disco-elysium-how-cult-heroes-british-sea-power-wrote-its-bafta-nominated-score), [nintendolife](https://www.nintendolife.com/features/meet-sea-power-the-talent-behind-disco-elysiums-exquisite-music), [The Guardian](https://www.theguardian.com/games/2025/mar/14/the-odd-drunken-detective-has-been-sighted-at-gigs-how-sea-power-won-legions-of-gamer-fans)) with context about the soundtrack, and [a clip](https://www.youtube.com/watch?v=GRnptZ8dXvA) from a video interview with Argo Tuulik by The 41st Precint.
+
+Robert Kurvitz reached out to the band to work on the game, with an extensive knowledge of their body of work and already with ideas of how some of their old tracks could set the tone for moments in the game. They met up and Kurvitz was at some live shows and was provided with demos. Sea Power already had a pattern of taking their existing songs from multiple different albums, fitting them to a soundtrack, and reworking them together to create a cohesive whole with a new sound, which they used on the three soundtracks produced prior to Disco.
 
 **Soundtrack**
 
-* [*Instrument of Surrender*](https://youtube.com/watch?v=qMUoWTEIGx4), [*Detective Arriving on the Scene*](https://www.youtube.com/watch?v=rxevPfOxCaU), and [*ZA/UM*](https://www.youtube.com/watch?v=-dhSWZTpwyE) (main overworld music) - These are all based on [*Red Rock Riviera*](https://youtube.com/watch?v=NSkb5OtTmgg) and [*Cleaning out the Rooms*](https://www.youtube.com/watch?v=Yqf-92FNGv4).
+* [*Instrument of Surrender*](https://youtube.com/watch?v=qMUoWTEIGx4), [*Detective Arriving on the Scene*](https://www.youtube.com/watch?v=rxevPfOxCaU), and [*ZA/UM*](https://www.youtube.com/watch?v=-dhSWZTpwyE) (general overworld music, mostly in the area east of the water lock) - These are all based on [*Red Rock Riviera*](https://youtube.com/watch?v=NSkb5OtTmgg) and [*Cleaning out the Rooms*](https://www.youtube.com/watch?v=Yqf-92FNGv4).
    * *Cleaning out the Rooms* appears on [*Valhalla Dancehall*](https://en.wikipedia.org/wiki/Valhalla_Dancehall) (2011) and the preceding EP [*Zeus*](https://en.wikipedia.org/wiki/Zeus_(EP)) (2010). *Red Rock Riviera* is an extension and reworking of the track, for their soundtrack to the BBC archive footage documentary [*From the Sea to the Land Beyond*](https://en.wikipedia.org/wiki/From_the_Sea_to_the_Land_Beyond) (2013). You can also hear some similar horns on [*Monsters of Sunderland*](https://youtube.com/watch?v=1yE0goo9Eig) from [*Machinieries of Joy*](https://en.wikipedia.org/wiki/Machineries_of_Joy) (2013).
    * *Instrument of Surrender* is focused on the horns section, *Detective Arriving on the Scene* is more from the main part of the song, and *ZA/UM* has a lot of the gentle and melancholy piano from the end of the song (which is the focus of the original *Cleaning out the Rooms* [instrumental demo](https://seapower.bandcamp.com/track/cleaning-out-the-rooms-original-instrumental-piano-demo)).
    * *Cleaning out the Rooms* is also directly referenced in the  game (more below).
@@ -44,16 +50,9 @@ todo intro
 * While we're on the subject, the name of the game itself could be inspired by the title of that album - both are composed of the name of a mythical afterlife and a genre of music put together.
 * The [taxidermy bird](https://fayde.co.uk/dialojue/130501) Harry has broken at the Whirling is a specimen of the Great Skua, which is the name of [a track](https://www.youtube.com/watch?v=JaBcEav4nJA) from *Do You Like Rock Music?*.
 
+todo stuff from other note
 
 todo conclusion
-
-https://musicbrainz.org/release/b1c37602-3850-4634-9e81-45b0501beb6d
-https://www.theguardian.com/games/2025/mar/14/the-odd-drunken-detective-has-been-sighted-at-gigs-how-sea-power-won-legions-of-gamer-fans
-https://www.nintendolife.com/features/meet-sea-power-the-talent-behind-disco-elysiums-exquisite-music
-https://www.techradar.com/news/disco-elysium-how-cult-heroes-british-sea-power-wrote-its-bafta-nominated-score
-https://www.reddit.com/r/DiscoElysium/comments/ofgjul/british_sea_power_references/
-https://www.reddit.com/r/DiscoElysium/comments/hqc6wb/disco_elysium_ost_tracks_and_their_preexisting/
-https://www.youtube.com/watch?v=GRnptZ8dXvA
-
-main chore part done now just the actual writing
-stereo-obsession
+tell me more
+edit the wiki
+use wherever
