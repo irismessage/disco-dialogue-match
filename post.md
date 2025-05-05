@@ -50,9 +50,6 @@ Robert Kurvitz reached out to the band to work on the game, with an extensive kn
 * While we're on the subject, the name of the game itself could be inspired by the title of that album - both are composed of the name of a mythical afterlife and a genre of music put together.
 * The [taxidermy bird](https://fayde.co.uk/dialojue/130501) Harry has broken at the Whirling is a specimen of the Great Skua, which is the name of [a track](https://www.youtube.com/watch?v=JaBcEav4nJA) from *Do You Like Rock Music?*.
 
-todo stuff from other note
+If you know any more origins or references please absolutely let me know, I'll edit this post with any new ones I find. I still have some old demo tracks I haven't listened to, there are probably some I have heard but didn't notice the similarity on too, and the number of references made by the writers is probably much more than I have here. It's probably impractical find every last one of them, given the size of the text and how lots are bound to be more subtle. I messed around trying to use [an algorithm](https://github.com/irismessage/disco-dialogue-match/) to find any direct quotes but didn't glean anything much new.
 
-todo conclusion
-tell me more
-edit the wiki
-use wherever
+Lots of this would probably be better off on the wiki too, I had a small page about the soundtrack on the Fandom one before which just had info about where/when each track plays in the game but it got deleted because they didn't think it was relevant or fit the right template or something? Don't think I even got the text I wrote back. I've only just seen that the new wiki is open now too, I might port some info to there myself but I put this post under a CC BY-SA 4.0 license right now anyway. Feel free to use it for videos or anything too.
